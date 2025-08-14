@@ -54,7 +54,7 @@ trabajo_final (main) $ gh auth login
 Si no existe, créalo desde la web o con:
 gh repo create garyrexoficial/trabajo_final --public --source=. --remote=origin
 
-3. Intenta el push nuevamente:  git push -u origin main
+4. Intenta el push nuevamente:  git push -u origin main
 Esto debería permitirte publicar tu código en el repositorio.
 
 
